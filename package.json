@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord-fivem-api": "^1.0.1",
+    "discord.js": "^12.5.1"
+  },
+  "name": "fivem-status-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nitay",
+  "license": "ISC",
+  "description": "This Is A Fivem Discord Bot. It Uses The discord-fivem-api package that collects data with an Rest.API. Enjoy!"
+}

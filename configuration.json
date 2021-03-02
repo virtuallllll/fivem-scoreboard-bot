@@ -1,0 +1,9 @@
+{
+    "welcomeMSG": "Bot Is Online.",
+    "token": "",
+    "messageID": "",
+    "statusChannel": "",
+    "prefix": "!",
+    "fullIP": "0.0.0.0:30120",
+    "teamspeakIP": "0.0.0.0"
+}
